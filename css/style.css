@@ -212,7 +212,7 @@ h1 span {
     padding: 0;
     text-align: center;
     margin: 15% 0;
-    font-size: 3vw;
+    font-size: 3.5vw;
   }
   .box p {
     padding: 0 15% 0 15%;
@@ -234,12 +234,15 @@ h1 span {
 
   .recipe {
     width: 65%;
-    font-size: 2.5vw;
+    font-size: 3.5vw;
   }
   body h1 {
     font-size: 7vw !important;
   }
 
+  .para p {
+    font-size: 2.5vw;
+  }
   .second-last .banner {
     flex-direction: column;
   }
@@ -263,5 +266,9 @@ h1 span {
   .ft {
     text-align: center;
     padding: 0 10%;
+  }
+  .anchor-button {
+    padding: 10px 20px;
+    font-size: 3.5vw;
   }
 }
